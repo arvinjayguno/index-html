@@ -1,0 +1,43 @@
+ body{
+
+background-color:rgb(243, 238, 232);
+
+ }
+
+
+h1{
+
+color:cadetblue;
+
+}
+
+*{
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+button{
+
+border-radius: 40%;
+background-color: rgba(67, 243, 184, 0.979);
+
+}
+
+ body{
+
+background-color:bisque
+ }
+
+ .contact,.con{
+
+background-color:wheat
+;
+
+ }
+ 
+.My{
+
+background-color:whitesmoke;
+
+}
